@@ -1,7 +1,7 @@
 name: SKD Media
 favicon: null
-layout_spectrum: 0.33534129918552935
-typography_spectrum: 0.15239966241642833
+layout_spectrum: 0.25053
+typography_spectrum: 0.29557
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6754172840155661
-  lightness: 0.77507702447474
-  saturation: 0.7013490290846676
-  rhythmicContrast: 0.36841181945055723
+    - '#cbbc38'
+    - '#313236'
+    - '#808000'
+    - '#ffff00'
+    - '#ff0000'
+  brandStrength: 0.6875
+  lightness: 0.3125
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
